@@ -1,8 +1,8 @@
 {
-  "scripts": {
-    "test": "mocha"
-  },
-  "dependencies": {
-    "mocha": "0.3.x"
-  }
+    "scripts": {
+        "test": "./node_modules/mocha/bin/mocha"
+    },
+    "dependencies": {
+        "mocha": "*"
+    }
 }
